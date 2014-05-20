@@ -1,4 +1,4 @@
-# README for jordan-test repository
+# jordan-test repository
 ## Objectives for Repository
 
 * Learn about using GitHub.com
