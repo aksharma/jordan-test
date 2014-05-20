@@ -1,5 +1,8 @@
 # jordan-test repository
-## Objectives for Repository
+## May 20, 2014
+
+
+### Objectives for Repository
 
 * Learn about using GitHub.com
 * Understand local versus remote repositories
