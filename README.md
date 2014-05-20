@@ -1,4 +1,8 @@
-jordan-test
-===========
+# README for jordan-test repository
 
-GitHub Foundations example repo
+---
+
+## Objectives for Repository
+
+* Learn about using GitHub.com
+* Understand local versus remote repositories
